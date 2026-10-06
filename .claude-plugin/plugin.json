@@ -1,0 +1,11 @@
+{
+  "name": "prompt-polish",
+  "version": "0.1.0",
+  "description": "提示词优化：点击输入框上方按钮或在草稿末尾输入 ;; 触发 · 结合会话上下文与记忆补全草稿，并按任务类型追加工作方式要求 · 结果写回输入框，发送前可编辑或还原",
+  "author": {
+    "name": "Albert-ycc"
+  },
+  "repository": "https://github.com/Albert-ycc/prompt-polish",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
